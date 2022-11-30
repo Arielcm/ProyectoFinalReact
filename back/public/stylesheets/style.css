@@ -1,0 +1,18 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #444444;
+  background: cornflowerblue
+}
+
+header {
+  background-color: black;
+  padding: 16px 0;
+}
+
+footer {
+  text-align: center;
+  background: #010351;
+  padding: 1px 1px 1px 1px;
+  color: #fff;
+  font-size: 14px;
+}
